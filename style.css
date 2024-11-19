@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-flow: row;
+}
+.cartao{
+    width: 30%;
+    height: 50rem;
+    margin: 2rem;
+    background-color: rgb(247, 3, 255);
+}
+.image{
+    width: 100%;
+    height: 30rem;
+}
+.list{
+    background-color: rgb(0, 0, 0);
+}
+.li{
+    background-color: rgb(247, 3, 255);
+}
